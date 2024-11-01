@@ -1,0 +1,15 @@
+# 2010 10 17
+- Force the ipad behavior passing 'force=1' to the url. 'force=0' to disable
+
+# 2010 10 16
+- handles permalinks
+
+# 2010 08 28
+- handles posts pages
+- does apply_filters to post content
+- added simple_html_dom (http://sourceforge.net/projects/simplehtmldom/) for some HTML parsing
+
+# 2010 07 25
+- load posts titles in the right panel
+- load post contents as cards in the central panel
+- it handles orientation correctly
